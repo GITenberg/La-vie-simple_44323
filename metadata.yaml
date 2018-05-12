@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Wagner
     - http://fr.wikipedia.org/wiki/Charles_Wagner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44323#La-vie-simple
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
