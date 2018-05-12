@@ -1,0 +1,30 @@
+_repo: La-vie-simple_44323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44323-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wagner, Charles
+    birthdate: 1852
+    deathdate: 1918
+    gutenberg_agent_id: '25671'
+    url: http://www.gutenberg.org/2009/agents/25671
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Wagner
+    - http://fr.wikipedia.org/wiki/Charles_Wagner
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44323'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+title: La vie simple
+url: http://www.gutenberg.org/ebooks/44323
